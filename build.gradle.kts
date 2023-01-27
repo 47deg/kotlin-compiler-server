@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.targets.js.KotlinJsCompilerAttribute
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 import org.springframework.boot.gradle.tasks.bundling.BootJar
 
-val arrowVersion = "1.1.2"
+val arrowVersion = "1.1.5"
 val kotlinVersion: String by System.getProperties()
 val kotlinIdeVersion: String by System.getProperties()
 val policy: String by System.getProperties()
